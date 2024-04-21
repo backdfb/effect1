@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # typeeffect
 # effect1
 # effect1
+# effect1
